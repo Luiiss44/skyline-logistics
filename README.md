@@ -99,6 +99,10 @@ src/
 │   └── VisualizadorEstadisticas.java
 └── Main.java                     // Punto de entrada
 ```
+## Gitdiagram
+
+![diagram](https://github.com/user-attachments/assets/fa7ac91c-7803-43f5-8297-5e1eb68d5e58)
+
 
 ## 🔄 Flujo de Turnos
 
